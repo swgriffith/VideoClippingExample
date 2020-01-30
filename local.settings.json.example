@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ffmpegPath": "C:\\Users\\griffith\\VideoClip\\ffmpeg.exe",
+    "outputPath": "C:\\Users\\griffith\\VideoClip",
+    "verboseFFMPEGLogging": "true",
+    "outputStorageAccountConnStr": "<Insert Storage Connection String>",
+    "blobContainerName": "outputvideos"
+  }
+}
